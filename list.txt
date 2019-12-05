@@ -1,0 +1,3 @@
+127.0.0.1	xnalgas.com
+127.0.0.1	hispachan.org
+127.0.0.1	vasi.net
