@@ -13,6 +13,8 @@
 127.0.0.1       veopornogratis.xxx
 127.0.0.1       videosdeputas.xxx
 127.0.0.1       www.videosporno.xxx
+127.0.0.1       www.pornogratis.tv.br
+127.0.0.1       snaggys.com
 #127.0.0.1       
      
 
