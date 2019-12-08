@@ -19,6 +19,8 @@
 127.0.0.1       www.lechetube.com
 127.0.0.1       lechetube.com
 127.0.0.1       theporndon.com
+127.0.0.1       www.letmejerk.com
+127.0.0.1       letmejerk.com
 #127.0.0.1       
      
 
